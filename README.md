@@ -6,3 +6,6 @@ A user arriving from the snippet lands on the `/discover` page. They then naviga
 
 ## webmaker-android (LOGIN)
 A pre-existing user enters their username and password. A POST request is made to `/login/oauth/access_token`.
+
+## webmaker-android (MAKE PAGES)
+A logged in user hits the `/discover` page and then proceeds to make a project with 10 blank pages in it.
